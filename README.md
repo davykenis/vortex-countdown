@@ -1,6 +1,6 @@
 # Countdown Timer
 
-A React.js app that takes a submitted future date and displays a timer counting down to that date.
+A React.js app that sets a timer of 7 minutes.
 
 ---
 
@@ -14,10 +14,6 @@ A React.js app that takes a submitted future date and displays a timer counting 
 * [Normalize.css](https://necolas.github.io/normalize.css)
 * [Font Awesome](https://fontawesome.com)
 * [Google Fonts](https://fonts.google.com)
-
-## Demo
-
-View project demo at [https://autumnchris.github.io/countdown-timer](https://autumnchris.github.io/countdown-timer).
 
 ## Instructions
 
