@@ -27,7 +27,7 @@ Run the following script in your command line to run the application:
 npm start
 ```
 
-Once the server is running, go to `http://localhost:8080` in your browser.
+Once the server is running, go to `http://localhost:8080` in your browser. You can set a timer by clicking the settings button at the right, IMPORTANT Remark: there is no logic behind the settings button anymore, you can just fill in dummy data.
 
 Before committing any changes, run the following script to update your static files for production:
 ```
